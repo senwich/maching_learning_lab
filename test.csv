@@ -1,0 +1,16 @@
+filename,Language,Story_type,file_path,file_exists,Story_Type_clean,y
+00070.wav,English,Deceptive Story,./dataset/audio_files\00070.wav,True,Deceptive Story,0
+00099.wav,Chinese,Deceptive Story,./dataset/audio_files\00099.wav,True,Deceptive Story,0
+00058.wav,Chinese,Deceptive Story,./dataset/audio_files\00058.wav,True,Deceptive Story,0
+00004.wav,Chinese,True Story,./dataset/audio_files\00004.wav,True,True Story,1
+00039.wav,Chinese,True Story,./dataset/audio_files\00039.wav,True,True Story,1
+00086.wav,English,Deceptive Story,./dataset/audio_files\00086.wav,True,Deceptive Story,0
+00038.wav,Chinese,Deceptive Story,./dataset/audio_files\00038.wav,True,Deceptive Story,0
+00008.wav,Chinese,True Story,./dataset/audio_files\00008.wav,True,True Story,1
+00002.wav,Chinese,True Story,./dataset/audio_files\00002.wav,True,True Story,1
+00022.wav,English,True Story,./dataset/audio_files\00022.wav,True,True Story,1
+00096.wav,English,True Story,./dataset/audio_files\00096.wav,True,True Story,1
+00042.wav,Chinese,Deceptive Story,./dataset/audio_files\00042.wav,True,Deceptive Story,0
+00048.wav,English,Deceptive Story,./dataset/audio_files\00048.wav,True,Deceptive Story,0
+00011.wav,Chinese,Deceptive Story,./dataset/audio_files\00011.wav,True,Deceptive Story,0
+00055.wav,Chinese,True Story,./dataset/audio_files\00055.wav,True,True Story,1
